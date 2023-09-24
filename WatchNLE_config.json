@@ -1,10 +1,12 @@
 [
+    {"BUNDLE_SDK":"199",
+    "ads_status": 1,
+    "ads_status_banner": 1}
+    
     {"BUNDLE_SDK":"198",
     "ads_status": 0,
     "ads_status_banner": 0},
     
-     {"BUNDLE_SDK":"199",
-    "ads_status": 1,
-    "ads_status_banner": 1}
+ 
 ]
 
