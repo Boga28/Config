@@ -1,10 +1,10 @@
 {"adsConfig":[
     
-             {"NEW_RELEASE_BUNDLE": 6,
+             {"NEW_RELEASE_BUNDLE": 7,
              "New_ads_status": 0,
              "New_ads_status_banner": 0,
-             "Prev_ads_status": 1,
-             "Prev_ads_status_banner": 1}
+             "Prev_ads_status": 0,
+             "Prev_ads_status_banner": -0}
     
             ]}
 
